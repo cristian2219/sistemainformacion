@@ -1,7 +1,7 @@
 <?php
 
 
-$txtID=(isset($_POST["txtID"]))?$_POST["txtID"]:"";
+$txtID=(isset($_POST["txtID"]))?$_POST["txtIiiiiiiiiiiiiiiiiiiiiiiiD"]:"";
 $txtusuario=(isset($_POST["txtusuario"]))?$_POST["txtusuario"]:"";
 $txtnombre=(isset($_POST["txtnombre"]))?$_POST["txtnombre"]:"";
 $txtsexo=(isset($_POST["txtsexo"]))?$_POST["txtsexo"]:"";
